@@ -12,6 +12,15 @@
 </div>
 
 ### Minha jornada de Aprendizado
-#### __Analise de Dados__ 
+
+Aqui vou deixar uma lista dos cursos que estou fazendo
+
+<details>
+  <summary>
+      <i>(Clique aqui para expandir)</i>
+    </summary>
+<br>
+<strong> Analise de Dados </strong>
+
 - [x] Introdução a Analise de Dados Microsoft  
 - [x] Comece a Criar com Power BI
