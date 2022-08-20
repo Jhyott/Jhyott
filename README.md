@@ -1,13 +1,4 @@
 # Olá, Me chamo Vitor Rodrigues 
-
-### Minha jornada de Aprendizado
-- __Analise de Dados__ 
-- [x] Introdução a Analise de Dados Microsoft  
-- [x] Comece a Criar com Power BI
-Ciencia de Dados  
-Engenharia de Dados  
-Adiministração de Banco de Dados  
-
 ### Linguagens e Tecnologias que estou estudando
 
 <div style="display: inline_block">
@@ -19,3 +10,8 @@ Adiministração de Banco de Dados
   <img aling="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img aling="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
+
+### Minha jornada de Aprendizado
+#### __Analise de Dados__ 
+- [x] Introdução a Analise de Dados Microsoft  
+- [x] Comece a Criar com Power BI
